@@ -19,7 +19,7 @@ This Power BI dashboard project offers an in-depth analysis of a global retail s
 
 
 
-### 🧾 Products Summary (Global Overview)
+### 🧾 Products Summary (2014 Reports Overview)
 ![Products Summary](GBSS-Products_Reports.png)
 
 
