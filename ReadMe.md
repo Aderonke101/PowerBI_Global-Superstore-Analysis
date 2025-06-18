@@ -24,8 +24,8 @@ This Power BI dashboard project offers an in-depth analysis of a global retail s
 
 
 
-### 🧾 Products Summary (Global Overview)
-![Customer Summary](GBSS-Customers_Reports.png)
+### 🧾 Customers Insights (Global Overview)
+![Customers Summary](GBSS-Customers_Reports.png)
 
 
 
@@ -34,7 +34,7 @@ This Power BI dashboard project offers an in-depth analysis of a global retail s
 
 
 
-### 🇺🇸 USA and Australia Focus
+### USA and Australia Focus
 ![USA and Australia](GBSS-USA_AUSTRALIA_Reports.png)
 
 
