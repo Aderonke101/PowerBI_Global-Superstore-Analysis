@@ -17,17 +17,26 @@ This Power BI dashboard project offers an in-depth analysis of a global retail s
 
 ## 📸 Dashboard Previews
 
-### 🧾 Products Summary (Global Overview)
-![Products Summary](GBBS-Products_Reports.png)
+
 
 ### 🧾 Products Summary (Global Overview)
-![Customer Summary](GBSS-Customers.png)
+![Products Summary](GBSS-Products_Reports.png)
+
+
+
+### 🧾 Products Summary (Global Overview)
+![Customer Summary](GBSS-Customers_Reports.png)
+
+
 
 ### 🌍 Nigeria & Southeast Asia Focus
-![Nigeria and Southeast Asia](GBSS-NIG_SOUTHASIA.png)
+![Nigeria and Southeast Asia](GBSS-NIG_SOUTH-ASIA_Reports.png)
+
+
 
 ### 🇺🇸 USA and Australia Focus
-![USA and Australia](GBSS-USA_AUSTRALIA.png)
+![USA and Australia](GBSS-USA_AUSTRALIA_Reports.png)
+
 
 ---
 
